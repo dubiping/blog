@@ -64,7 +64,6 @@ new Vue({
   }
 }).$mount("#app");
 ```
----
 ## 报错
 ```javascript
 [prerender-spa-plugin] Unable to prerender all routes!
