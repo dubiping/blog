@@ -5,4 +5,5 @@
 - [cqc-代码检查](https://github.com/xcatliu/cqc)
 
 ## 时间格式化 
+- [时间格式化工具](https://github.com/dubiping/blog/blob/master/js-blog/Date.js)
 - [仿微信时间格式化](https://blog.csdn.net/chy555chy/article/details/84325958)
