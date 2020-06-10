@@ -20,3 +20,6 @@
 - https://github.com/antiter/praise-animation/blob/master/canvas.js
 - https://github.com/lixinliang/bubble-hearts/blob/master/bubble-hearts.js
 - https://www.jb51.net/jiaoben/605973.html
+
+## -webkit-overflow-scrolling:touch
+- https://www.cnblogs.com/xiahj/p/8036419.html
