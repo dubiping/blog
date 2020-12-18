@@ -7,3 +7,4 @@
 - [原生js博客](https://github.com/dubiping/blog/tree/master/js-blog)
 - [ui框架](https://github.com/dubiping/blog/tree/master/uiFrame-blog)
 - [视频播放器](https://github.com/dubiping/blog/tree/master/video-blog)
+- [css动画](https://github.com/dubiping/blog/tree/master/animation-blog)

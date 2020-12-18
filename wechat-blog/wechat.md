@@ -25,3 +25,16 @@
 
 ## -webkit-overflow-scrolling:touch
 - https://www.cnblogs.com/xiahj/p/8036419.html
+
+## 小程序跳转app
+- https://blog.csdn.net/andy_5826_liu/article/details/90683169
+- https://github.com/ThinkinLiu/itlao5-xmb-weapp
+
+## 提现
+- https://pay.weixin.qq.com/wiki/doc/api/tools/mch_pay.php?chapter=14_1
+- cnblogs.com/qczy/p/10942244.html
+
+## 老虎机
+- [以setInterval改变位置] https://github.com/sunniejs/sol-weapp/blob/master/src/slot-machine/index.js
+- [以雪碧图改变位置] https://blog.csdn.net/weixin_34191734/article/details/91456361
+- [以旋转方式形成滚筒] https://github.com/zpzxgcr/choujiang/blob/master/pages/lucky-draw/lucky-draw.wxml

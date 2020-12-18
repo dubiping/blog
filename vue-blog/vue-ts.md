@@ -4,3 +4,6 @@
 
 ## 资料
 - https://juejin.im/post/5c9dc965e51d4512967dd74c
+
+## 父组件控制子组件中的v-model
+- https://blog.csdn.net/gp3098/article/details/104407980
